@@ -1,10 +1,11 @@
-<h1 align="center"> Curso Alura - HTML5 e CSS3 <h1>
+# <p align="center"> Curso Alura - HTML5 e CSS3</p>
 
-## Descrição do Projeto
-Este projeto é referente ao curso de *HTML5* e *CSS3* da plataforma **Alura**. O objetivo foi criar uma página para a suposta "Barbearia Alura". O curso é dividido em 4 partes, são elas: 
-1. Crie uma página da Web;
-2. Posicionamento, listas e navegação;
-3. Trabalhando com formulários e tabelas;
-4. Avançando no CSS.
+> Este projeto é referente aos cursos de *HTML5* e *CSS3* da plataforma **Alura**. O objetivo foi criar uma página para a suposta "Barbearia Alura". 
+
+### Objetivos
+- [x] Criar uma página da Web;
+- [x] Posicionamento, listas e navegação;
+- [x] Trabalhar com formulários e tabelas;
+- [x] Avançar no CSS.
 
 > Status do Projeto: Concluido :heavy_check_mark:
